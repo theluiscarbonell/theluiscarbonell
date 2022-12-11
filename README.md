@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @theluiscarbonell
 - 👀 I’m interested in [INTERESTED]
+  - Real Estate
+  - System Design
 - 🌱 I’m currently learning [LEARNING]
+  - Real Estate
+  - System Design
 - 💞️ I’m looking to collaborate on [COLLABORATION]
+  - System Design
 - 📫 How to reach me [CONTACT]
 
 <!---
