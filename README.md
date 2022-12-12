@@ -8,6 +8,7 @@
 - 💞️ I’m looking to collaborate on [COLLABORATION]
   - System Design
 - 📫 How to reach me [CONTACT]
+  - [🐦 Twitter](https://twitter.com/thecarbonell)
 
 <!---
 theluiscarbonell/theluiscarbonell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
